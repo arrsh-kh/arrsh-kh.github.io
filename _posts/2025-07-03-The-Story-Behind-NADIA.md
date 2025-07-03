@@ -4,8 +4,6 @@ author: Arrsh Khusaria
 tags: NADIA spacial-audio
 ---
 
-# From Instagram Reels to Open Source Audio: The Story Behind NADIA
-
 What started as mindless scrolling through Instagram reels turned into a deep dive into professional audio technology and ultimately, the creation of an open-source alternative to proprietary spatial audio systems.
 
 ## The Instagram Rabbit Hole

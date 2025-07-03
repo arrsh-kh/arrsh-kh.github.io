@@ -35,7 +35,7 @@ After more pondering with ChatGPT on the Night Club, it suggested L-Acoustics.
 
 I wondered why these generic-looking speakers were considered the gold standard in professional audio. My research revealed that L-Acoustics invented line arrays. But why do they get so much credit for this? I could understand the sound quality aspect, but what's so special about line arrays? Hadn't anyone thought of connecting multiple speakers and hanging them before?
 
-Then I learned about the real magic: people said L-Acoustics speakers were so good that audiences couldn't tell where the speakers were located—the sound remained consistent throughout the entire venue. This led me to discover the incredible science behind what seems like such a simple concept, and eventually to NADIA and L-ISA (L-Acoustics Immersion Sound Architecture).
+Then I learned about the real magic: people said L-Acoustics speakers were so good that audiences couldn't tell where the speakers were located the sound remained consistent throughout the entire venue. This led me to discover the incredible science behind what seems like such a simple concept, and eventually to NADIA and L-ISA (L-Acoustics Immersion Sound Architecture).
 
 My mind was blown. The amount of science and engineering behind what appears to be just "hanging speakers together" is incredible! I can't explain most of it adequately, but you can watch [this excellent explanation](https://www.youtube.com/embed/fEEFB3shPbE) to understand the complexity involved. It can adjust specific audio ranges to specific speakers so every place is the best place in the house and their DJ support can do it in real time!
 
@@ -52,7 +52,7 @@ I wanted to dig deeper into the technology, but then I hit the wall that changed
 
 If I wanted to explore further, I would need to buy the L-ISA software AND a significant number of L-Acoustics speakers, since their system only works with their own hardware. This proprietary lock-in frustrated me to the point where I decided to take action.
 
-I wanted to build something myself—and make it open source so others could improve it, use it for free, and benefit from community contributions.
+I wanted to build something myself and make it open source so others could improve it, use it for free, and benefit from community contributions.
 
 ## Building NADIA
 

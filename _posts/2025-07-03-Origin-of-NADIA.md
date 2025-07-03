@@ -37,15 +37,7 @@ I wondered why these generic-looking speakers were considered the gold standard 
 
 Then I learned about the real magic: people said L-Acoustics speakers were so good that audiences couldn't tell where the speakers were located—the sound remained consistent throughout the entire venue. This led me to discover the incredible science behind what seems like such a simple concept, and eventually to NADIA and L-ISA (L-Acoustics Immersion Sound Architecture).
 
-My mind was blown. The amount of science and engineering behind what appears to be just "hanging speakers together" is incredible! I can't explain most of it adequately, but you can watch this excellent explanation to understand the complexity involved. It can adjust specific audio ranges to specific speakers so every place is the best place in the house and their DJ support can do it in real time!
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/fEEFB3shPbE" 
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-          frameborder="0" allowfullscreen>
-  </iframe>
-</div>
-
+My mind was blown. The amount of science and engineering behind what appears to be just "hanging speakers together" is incredible! I can't explain most of it adequately, but you can watch [this excellent explanation](https://www.youtube.com/embed/fEEFB3shPbE) to understand the complexity involved. It can adjust specific audio ranges to specific speakers so every place is the best place in the house and their DJ support can do it in real time!
 
 This is the comparison with and without L-ISA active:
 
